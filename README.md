@@ -6,7 +6,7 @@ Author
 Abdulrazak Moulasab Pakali — https://github.com/abdulrazakpakali
 
 Live Demo
-No live demo available yet. Add the URL here when you have one.
+https://abdulrazakpakali.github.io/SDPPORTFOLIO/
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
